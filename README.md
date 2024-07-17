@@ -1,4 +1,4 @@
-game developer / technical artist / graphics programmer
+game developer, technical artist, and graphics programmer
 
 <!---
 chevalier-deon/chevalier-deon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
